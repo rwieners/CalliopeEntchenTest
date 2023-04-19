@@ -1,3 +1,5 @@
+basic.showString("Alle meine Entchen")
+control.waitMicros(1000)
 music.playTone(262, music.beat(BeatFraction.Quarter))
 music.playTone(294, music.beat(BeatFraction.Quarter))
 music.playTone(330, music.beat(BeatFraction.Quarter))
